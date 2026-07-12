@@ -105,7 +105,7 @@ These agents collaborate to determine whether a query should be answered using u
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Financial-RAG-Assistant.git
+git clone https://github.com/shriasannuthi/Financial-RAG-Assistant.git
 ```
 
 Install dependencies
