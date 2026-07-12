@@ -164,20 +164,6 @@ Compiles retrieved information into a structured financial report tailored to th
 
 ---
 
-## Demo
-
-### Application
-
-![Loan Document Processor](Loan%20Document%20Processor.png)
-
-### Videos
-
-- Demo.mp4
-- Final Demo Video.mp4
-- AML Demo.mp4
-
----
-
 ## Example Use Cases
 
 - Loan eligibility analysis
